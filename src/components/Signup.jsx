@@ -15,7 +15,6 @@ const SignUp = () => {
 	
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		if (!userSignUp.username || !userSignUp.email || !userSignUp.password) {
 			
 	};
 
