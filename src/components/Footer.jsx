@@ -12,8 +12,7 @@ const Footer = () => {
 						</span>
 					</a>
 					<p className='mt-2 text-sm text-gray-500 '>
-					It is an innovative logistics and trucking transport startup
-					</p>
+					It is an innovative intra-city logistics and trucking transport aggregator startup.					</p>
 				</div>
 				<div className='flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center'>
 					
