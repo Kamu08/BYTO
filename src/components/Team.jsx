@@ -30,7 +30,7 @@ const Team = () => {
 							/>
 
 							<h2 class='text-gray-900 font-medium title-font tracking-wider text-sm'>
-								KAMAL SHARMA
+								PANKAJ SHARMA
 							</h2>
 							<p class='text-gray-500'>Co-Founder</p>
 						</div>
@@ -44,7 +44,7 @@ const Team = () => {
 							/>
 
 							<h2 class='text-gray-900 font-medium title-font tracking-wider text-sm'>
-								Someone
+							KAMAL SHARMA
 							</h2>
 							<p class='text-gray-500'>CTO</p>
 						</div>

@@ -46,7 +46,7 @@ const Header = () => {
 					to='/'
 					className='flex items-center text-gray-900 text-xl cursor-pointer font-bold'
 				>
-					BY<span className='text-orange-500'>TO</span>
+					Bharat<span className='text-orange-500'>Movers</span>
 				</NavLink>
 
 				{/* Desktop Navigation */}

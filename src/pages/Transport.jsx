@@ -7,10 +7,10 @@ const TransportProviderPage = () => {
 			<div className='max-w-screen-xl mx-auto flex flex-col md:flex-row items-center mb-10'>
 				<div className='md:w-1/2'>
 					<h1 className='text-4xl font-bold text-gray-800 mb-4'>
-						Join BYTO as a Transport Partner
+						Join Bharat Movers as a Transport Partner
 					</h1>
 					<p className='text-lg text-gray-600 mb-6'>
-						Partner with BYTO and grow your business by providing reliable
+						Partner with Bharat Movers and grow your business by providing reliable
 						transportation services. Earn more, work flexibly, and be part of a
 						trusted network.
 					</p>

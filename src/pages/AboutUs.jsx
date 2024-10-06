@@ -27,7 +27,7 @@ const AboutUs = () => {
 							<br className='hidden lg:inline-block' />
 						</h1>
 						<p className='mb-8 leading-relaxed text-gray-700'>
-							BYTO (Book Your Truck Online) is an innovative logistics and transport startup, dedicated to revolutionizing the intra-city logistics and transport industry by delivering innovative solutions that drive efficiency and reliability. We connect shippers and cargo vehicle owners on one platform, allowing businesses to book cargo transport vehicles online for their goods. We are transforming the way goods are transported and managed.
+							Bharat Movers is an innovative logistics and transport startup, dedicated to revolutionizing the intra-city logistics and transport industry by delivering innovative solutions that drive efficiency and reliability. We connect shippers and cargo vehicle owners on one platform, allowing businesses to book cargo transport vehicles online for their goods. We are transforming the way goods are transported and managed.
 						</p>
 					</div>
 				</div>
