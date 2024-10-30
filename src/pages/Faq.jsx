@@ -70,7 +70,7 @@ const Faq = () => {
 
 						<p className='text-gray-500'>
 							Follow these simple steps to start leveraging hassle-free
-							logistics from Porter: 1.Choose the service you want to use
+							logistics from Bharat Movers: 1.Choose the service you want to use
 							2.Select your pick up and delivery locations 3.Choose the most
 							appropriate vehicle type as per your requirements 4.Choose your
 							payment method 5.Click on “Book Now” and your vehicle is on its
