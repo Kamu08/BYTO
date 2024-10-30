@@ -29,8 +29,8 @@ const RentVeh = () => {
             { img: p3, weight: "750 - 1000 kg", price: "₹15/km", name: "Truck" }
         ] : [
             { img: p4, weight: "1000 - 1500 kg", price: "₹17/km", name: "Heavy Truck 1" },
-            { img: p5, weight: "1500 - 2000 kg", price: "₹17/km", name: "Heavy Truck 2" },
-            { img: p6, weight: "above 2000 kg", price: "₹17/km", name: "Heavy Truck 3" }
+            { img: p5, weight: "1500 - 2000 kg", price: "₹20/km", name: "Heavy Truck 2" },
+            { img: p6, weight: "above 2000 kg", price: "₹25/km", name: "Heavy Truck 3" }
         ];
 
         return (
