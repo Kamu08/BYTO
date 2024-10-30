@@ -24,13 +24,13 @@ const RentVeh = () => {
 
     const renderCarts = () => {
         const vehicles = selectedTab === "light" ? [
-            { img: p1, weight: "250 - 500 kg", price: "₹230", name: "3 Wheeler" },
-            { img: p2, weight: "500 - 750 kg", price: "₹205", name: "Tata Ace" },
-            { img: p3, weight: "750 - 1000 kg", price: "₹250", name: "Truck" }
+            { img: p1, weight: "250 - 500 kg", price: "₹15/km", name: "3 Wheeler" },
+            { img: p2, weight: "500 - 750 kg", price: "₹15/km", name: "Tata Ace" },
+            { img: p3, weight: "750 - 1000 kg", price: "₹15/km", name: "Truck" }
         ] : [
-            { img: p4, weight: "1000 - 1500 kg", price: "₹500", name: "Heavy Truck 1" },
-            { img: p5, weight: "1500 - 2000 kg", price: "₹550", name: "Heavy Truck 2" },
-            { img: p6, weight: "above 2000 kg", price: "₹550", name: "Heavy Truck 3" }
+            { img: p4, weight: "1000 - 1500 kg", price: "₹17/km", name: "Heavy Truck 1" },
+            { img: p5, weight: "1500 - 2000 kg", price: "₹17/km", name: "Heavy Truck 2" },
+            { img: p6, weight: "above 2000 kg", price: "₹17/km", name: "Heavy Truck 3" }
         ];
 
         return (
