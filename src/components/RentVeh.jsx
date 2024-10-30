@@ -24,7 +24,7 @@ const RentVeh = () => {
 
     const renderCarts = () => {
         const vehicles = selectedTab === "light" ? [
-            { img: p1, weight: "250 - 500 kg", price: "₹15/km", name: "3 Wheeler" },
+            { img: p1, weight: "250 - 500 kg", price: "₹15", name: "3 Wheeler" },
             { img: p2, weight: "500 - 750 kg", price: "₹15/km", name: "Tata Ace" },
             { img: p3, weight: "750 - 1000 kg", price: "₹15/km", name: "Truck" }
         ] : [
