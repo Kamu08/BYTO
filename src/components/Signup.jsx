@@ -12,7 +12,7 @@ const SignUp = () => {
 	const handleChange = (e) => {
 		setuserSignUp({ ...userSignUp, [e.target.name]: e.target.value });
 	};
-
+	
 	const handleSubmit = (e) => {
 		e.preventDefault();
 	};

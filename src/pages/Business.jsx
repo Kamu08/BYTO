@@ -7,10 +7,10 @@ const BusinessPage = () => {
 			<div className='max-w-screen-xl mx-auto flex flex-col md:flex-row items-center mb-10 mt-16'>
 				<div className='md:w-1/2'>
 					<h1 className='text-4xl font-bold text-gray-800 mb-4'>
-						Empower Your Business with BYTO
+						Empower Your Business with Bharat Movers
 					</h1>
 					<p className='text-lg text-gray-600 mb-6'>
-						BYTO provides reliable and efficient vehicle booking services
+					Bharat Movers provides reliable and efficient vehicle booking services
 						tailored to your business needs. Streamline your logistics and focus
 						on what you do best.
 					</p>

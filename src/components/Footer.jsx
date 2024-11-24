@@ -8,12 +8,11 @@ const Footer = () => {
 					<a className='flex title-font font-medium items-center md:justify-start justify-center text-white'>
 						<span className='ml-3 text-xl'>
 							{" "}
-							BY<span className='text-orange-500'>TO</span>
+							Bharat<span className='text-orange-500'>Movers</span>
 						</span>
 					</a>
 					<p className='mt-2 text-sm text-gray-500 '>
-					It is an innovative logistics and trucking transport startup
-					</p>
+					It is an innovative intra-city logistics and trucking transport aggregator startup. </p>
 				</div>
 				<div className='flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center'>
 					
@@ -64,7 +63,7 @@ const Footer = () => {
 			<div className='bg-gray-800 bg-opacity-75'>
 				<div className='container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row'>
 					<p className='text-gray-400 text-sm text-center sm:text-left'>
-						© 2024 BYTO
+						© 2024 Bharat Movers
 					</p>
 					<span className='inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start'>
 						<a className='text-gray-400 cursor-pointer'>
