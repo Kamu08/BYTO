@@ -22,8 +22,8 @@ const ShipHistory = () => {
   };
 
   return (
-    <div className="py-6 sm:py-8 lg:py-12 h-[100vh] bg-gray-50">
-      <div className="mx-auto max-w-screen-md px-4 md:px-8">
+    <div className="py-6 sm:py-8 lg:py-12 h-[100vh] bg-gray-50 ">
+      <div className="mx-auto max-w-screen-md px-4 md:px-8 mt-16">
         <div className="flex items-center mb-6">
           <button
             onClick={() => window.history.back()}

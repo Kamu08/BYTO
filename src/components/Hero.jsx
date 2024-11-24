@@ -7,8 +7,8 @@ import AboutUs from "../pages/AboutUs";
 const Hero = () => {
 	return (
 		<>
-			<section className='text-gray-600 body-font relative h-[80vh] mt-5'>
-				<div className='absolute inset-0 -z-10'>
+			<section className='text-gray-600 body-font relative h-[80vh]  '>
+				<div className='absolute inset-0 -z-10 '>
 					<img
 						className='object-cover w-full h-full rounded'
 						alt='hero'

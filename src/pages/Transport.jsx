@@ -4,7 +4,7 @@ import PartnerHeroImage from "../assets/p2.jpeg";
 const TransportProviderPage = () => {
 	return (
 		<div className=' py-20 px-4'>
-			<div className='max-w-screen-xl mx-auto flex flex-col md:flex-row items-center mb-10'>
+			<div className='max-w-screen-xl mx-auto flex flex-col md:flex-row items-center mb-10 mt-16'>
 				<div className='md:w-1/2'>
 					<h1 className='text-4xl font-bold text-gray-800 mb-4'>
 						Join BYTO as a Transport Partner

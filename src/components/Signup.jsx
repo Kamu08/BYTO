@@ -1,9 +1,5 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
-import { auth } from "../FirebaseAuth/FirebaseAuth";
-import "firebase/auth";
-import { toast } from "react-toastify";
 
 const SignUp = () => {
 	const navigateLogin = useNavigate();
@@ -19,28 +15,11 @@ const SignUp = () => {
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		if (!userSignUp.username || !userSignUp.email || !userSignUp.password) {
-			return toast.error("All Fields are required");
-		} else {
-			createUserWithEmailAndPassword(
-				auth,
-				userSignUp.email,
-				userSignUp.password
-			)
-				.then(async (res) => {
-					const user = res.user;
-					await updateProfile(user, {
-						displayName: userSignUp.username,
-					});
-					navigateLogin("/login");
-				})
-				.catch((err) => toast.error(err.message));
-		}
 	};
 
 	return (
-		<div class='bg-white py-6 sm:py-8 lg:py-12'>
-			<div class='mx-auto max-w-screen-2xl px-4 md:px-8'>
+		<div class='bg-white py-6 sm:py-8 lg:py-12 '>
+			<div class='mx-auto max-w-screen-2xl px-4 md:px-8 mt-20'>
 				<h2 class='mb-4 text-center text-2xl font-bold text-gray-800 md:mb-8 lg:text-3xl'>
 					Sign-up
 				</h2>
