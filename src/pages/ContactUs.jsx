@@ -2,9 +2,9 @@ import React from "react";
 const ContactUs = () => {
 	return (
 		<>
-			<section className='text-gray-400 body-font relative'>
-				<div className='lg:w-1/3 md:w-1/2 w-full md:py-8 mt-8 md:mt-0 mx-auto'>
-					<div className="text-center">
+			<section className='text-gray-400 body-font relative '>
+				<div className='lg:w-1/3 md:w-1/2 w-full md:py-8 mt-8 mx-auto'>
+					<div className="text-center mt-20">
 						<div className='flex items-center justify-center'>
 							<h2 className='text-xl font-bold text-gray-700'>
 								For any query?

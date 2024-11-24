@@ -46,7 +46,7 @@ const RentVeh = () => {
                             </span>
                             </div>  
                             <span>Starting from {vehicle.price}</span>
-                            <button onClick={() => handleKnowMoreClick(vehicle)} className="text-blue-500 mt-2">
+                            <button onClick={() => handleKnowMoreClick(vehicle)} className="text-white mt-2 p-1 rounded-md px-2 hover:bg-orange-400 bg-slate-700">
                                 Know more
                             </button>
                         </div>

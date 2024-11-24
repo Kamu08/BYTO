@@ -5,14 +5,14 @@ import wwa from '/src/assets/wwa.jpeg';
 
 const AboutUs = () => {
 	return (
-		<div className="bg-gray-100">
-			<div className='mb-8 text-center'>
-					<h2 className='text-xl font-bold text-gray-700'>
+		<div className="bg-gray-100 ">
+			<div className='mb-8 text-center '>
+					<h2 className='text-xl font-bold text-gray-700 '>
 						About Us
 					</h2>
 					<span className='inline-block h-1 w-10 rounded bg-orange-500 mt-2 mb-4'></span>
 				</div>
-			<section className='text-gray-600 body-font'>
+			<section className='text-gray-600 body-font '>
 				<div className='container mx-auto flex px-5 py-12 md:flex-row flex-col items-center'>
 					<div className='lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0'>
 						<img
