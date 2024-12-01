@@ -8,10 +8,10 @@ import AboutUs from "../pages/AboutUs";
 const Hero = () => {
 	return (
 		<>
-			<section className='text-gray-600 body-font relative h-[80vh]  '>
+			<section className='text-gray-600 body-font relative sm:h-[80vh] h-[65vh]  '>
 				<div className='absolute inset-0 -z-10 '>
 					<img
-						className='object-cover w-full h-full rounded'
+						className='sm:object-cover h-[65vh]  sm:w-full sm:h-full rounded'
 						alt='hero'
 						src={img1}
 					/>
