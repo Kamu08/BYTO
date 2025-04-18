@@ -14,3 +14,5 @@ Instructions coming soon.
 npm install react-router-dom
 npm install axios
 npm install -D eslint prettier eslint-plugin-react eslint-config-prettier
+npm install express mongoose dotenv cors
+npm install --save-dev nodemon
