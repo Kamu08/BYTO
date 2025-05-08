@@ -3,7 +3,7 @@ const TeamSection = () => {
       { name: 'John Smith', role: 'CEO & Co-founder', quote: 'Techie by day, cyclist by night', avatar: 'https://via.placeholder.com/100x100?text=John' },
       { name: 'Sarah Johnson', role: 'Head of Operations', quote: 'Logistics wizard + coffee enthusiast', avatar: 'https://via.placeholder.com/100x100?text=Sarah' },
       { name: 'Mike Chen', role: 'Tech Lead', quote: 'Code ninja, gaming geek', avatar: 'https://via.placeholder.com/100x100?text=Mike' },
-      { name: 'Emma Sharma', role: 'Customer Success', quote: 'People person, yoga lover', avatar: 'https://via.placeholder.com/100x100?text=Emma' },
+      { name: 'none oky', role: 'Customer Success', quote: 'People person, yoga lover', avatar: 'https://via.placeholder.com/100x100?text=Emma' },
     ];
   
     return (
